@@ -1,1 +1,1 @@
-# hackerhank-go
+# Hackerhank solutions solved with golang
